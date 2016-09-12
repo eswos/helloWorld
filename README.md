@@ -1,3 +1,3 @@
 # helloWorld
 first repo
-I a total newbie. That's it. 
+I am a newbie. That's it. 
